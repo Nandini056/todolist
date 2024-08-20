@@ -1,16 +1,30 @@
-# todo
+# Todo List 
 
-A new Flutter project.
+A simple and intuitive Todo List app built with Flutter and Dart, featuring local storage with Hive and an integrated dark mode for enhanced usability. Developed using Android Studio in 2024.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🌑 **Dark Mode:** Integrated a dark mode to improve usability in various lighting conditions, making it easy on the eyes.
+- 📋 **Task Management:** Users can easily add and delete tasks through a clean and user-friendly interface.
+- 🗂️ **Local Storage:** Tasks are saved locally using Hive, ensuring that your data is always accessible, even offline.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Framework:** Flutter
+- **Language:** Dart
+- **Local Database:** Hive
+- **IDE:** Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+- **Nandini Sharma**
+- [GitHub Profile](https://github.com/Nandini056)
